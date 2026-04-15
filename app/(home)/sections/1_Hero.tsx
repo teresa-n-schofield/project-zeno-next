@@ -180,7 +180,7 @@ export default function LandingHero({
               fontSize="lg"
               textShadow="2px 2px 5px hsla(225, 52%, 11%, 0.75)"
             >
-              Global Nature Watch is an open, AI-powered system that transforms groundbreaking
+              Global Nature Watch is an experimental, open, AI-powered system that transforms groundbreaking
               land monitoring data into intelligence to understand Earth&rsquo;s landscapes.
               Test the preview and help shape the future of land monitoring.
             </Text>
